@@ -1,0 +1,15 @@
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\bin\Debug\net6.0\Задание_3.exe
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\bin\Debug\net6.0\Задание_3.deps.json
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\bin\Debug\net6.0\Задание_3.runtimeconfig.json
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\bin\Debug\net6.0\Задание_3.dll
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\bin\Debug\net6.0\Задание_3.pdb
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.csproj.AssemblyReference.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.AssemblyInfoInputs.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.AssemblyInfo.cs
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.csproj.CoreCompileInputs.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.dll
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\refint\Задание_3.dll
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.pdb
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\Задание_3.genruntimeconfig.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_10\Lab_10\Задание_3\obj\Debug\net6.0\ref\Задание_3.dll
